@@ -9,7 +9,6 @@
     <img alt="GitHub License" src="https://img.shields.io/github/license/Deknil/FluxLoader">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Deknil/FluxLoader">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deknil/FluxLoader">
-    <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/Deknil/FluxLoader">
 </p>
 
 **Flux Loader** is a universal toolchain for creating plugins (mods) for the [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/) game, oriented for both the client and the server.
